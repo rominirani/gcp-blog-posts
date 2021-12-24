@@ -1,1 +1,6 @@
-
+Follow the steps given below to import the Agent. 
+ a) Open the Dialogflow CX Console.
+ b) Choose the GCP project for the agent.
+ c) Click the option for an agent in the list.
+ d) Click the Restore button. Choose the .blob file provided in this project. 
+ e) Follow instructions to complete.
